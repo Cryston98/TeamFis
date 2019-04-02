@@ -1,0 +1,5 @@
+[Student] - (Log In),[Teacher]-(Log In),(Log In)<(Validare Date)
+[Student] - (View Cours),[Student]-(Other Activities)
+[Teacher] - (View Student Enroled),[Teacher] - (Add Student),
+(Add Student) < (Valid Student),[Teacher] - (View Statistic)
+[Admin] - (Create Account Student & Teacher),[Admin] - (Add Subject Teacher)
